@@ -54,8 +54,8 @@ Ensure you have the following installed on your target machine(s):
 ---
 
 ## 🔒 Security Disclaimer
-This project is designed as an architectural proof-of-concept (PoC) to demonstrate how low-level system languages can interact with high-level web APIs to form networking pipelines. For enterprise production deployments, integrate robust cryptographic handshake suites (such as **WireGuard** or **AES-GCM-256**) alongside secure DB querying.
-
+It changes your location by creating random images every minute!
+<img src="https://geektyper.com/ASSETS/img/hash.gif" alt="" />
 ---
 
 ## 📝 License
