@@ -1,0 +1,11 @@
+# Go Executables
+main
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Node modules for JS
+node_modules/
+.env
